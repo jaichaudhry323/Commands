@@ -1,12 +1,12 @@
 # Commands
 
-nvm -v
-nvm list available
-nvm install 14.16.0
-nvm use 14.16.0
-node -v
-
-
-npx create-next-app
-# or
-yarn create next-app
+nvm -v<br>
+nvm list available<br>
+nvm install 14.16.0<br>
+nvm use 14.16.0<br>
+node -v<br>
+<br>
+<br>
+npx create-next-app<br>
+# or<br>
+yarn create next-app<br>
