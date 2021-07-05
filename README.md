@@ -8,5 +8,9 @@ node -v<br>
 <br>
 <br>
 npx create-next-app<br>
-# or<br>
+or<br>
 yarn create next-app<br>
+
+<br>
+npx create-react-app evernote-clone<br>
+<br>
