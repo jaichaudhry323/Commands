@@ -24,9 +24,10 @@ npm install react-quill
 <br>
 
 
+<br>
 Errors and Solns:
-return (  [correct]   
-
-return    [error]
+return (  <---- [correct]   
+<br>
+return    <---- [error]
 (
 
