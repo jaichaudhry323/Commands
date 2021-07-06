@@ -22,3 +22,11 @@ npm install firebase
 <br>
 npm install react-quill
 <br>
+
+
+Errors and Solns:
+return (  [correct]   
+
+return    [error]
+(
+
