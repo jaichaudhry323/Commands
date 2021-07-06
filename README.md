@@ -14,3 +14,11 @@ yarn create next-app<br>
 <br>
 npx create-react-app evernote-clone<br>
 <br>
+npm install @material-ui/icons
+<br>
+npm install @material-ui/core 
+<br>
+npm install firebase 
+<br>
+npm install react-quill
+<br>
